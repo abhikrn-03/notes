@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abhikrn-03/notes#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "yargs": "^16.0.3"
   }
 }
